@@ -1,0 +1,11 @@
+# 1. one time eatch project to start git
+git init
+
+# 2. everytime to add something
+git add .
+
+# 3.hjkk
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shahariaislam314/bappy-s-new-repository.git
+git push -u origin main
